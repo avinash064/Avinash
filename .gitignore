@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.tar.gz
+*.zip
+*.mp4
+*.jpg
+datasets/
+checkpoints/

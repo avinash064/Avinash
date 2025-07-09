@@ -1,0 +1,8 @@
+torch
+torchvision
+timm
+einops
+tqdm
+requests
+gdown
+opencv-python
